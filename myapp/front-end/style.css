@@ -1,6 +1,12 @@
  body {
-    background-color: #d8d5d5;
-    font-family: 'Papyrus';
+  background-image: url("vintage_paper_background_2708.jpg");
+  background-repeat: repeat;
+  background-position: center center;
+  background-color: #f6f1e6;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+  border: 1px solid #c3a97e;
+  font-family: 'Papyrus';
+  font-size: 1.3rem
   }
   
   * h1, * h2, * h3, * h4, * h5, * h6 {
@@ -174,6 +180,7 @@
   #app
   {
     font-family: Papyrus;
-    color:  #2980B9;
+    color: #2980B9;
   }
+  
   
